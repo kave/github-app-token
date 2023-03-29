@@ -4,7 +4,7 @@ Install Ruby in your environment
 `gem install jwt`
 
 
-Download the Github App private key locally
+Download the GitHub App private key locally
 
 If in AWS Parameter Store
 ```
